@@ -1,0 +1,46 @@
+body{
+    background-color: #b87376;
+    color: #5f3941;
+    font-family: 'Lora', serif;
+
+}
+
+h3{
+    color: #55454c;
+    font-size: 23px;
+
+}
+
+
+/*Esto es un comentario*/
+
+h1, p {
+    color: #3c2832;
+    text-align: center;
+}
+
+img{
+    width: 200px;
+    height: 150px;
+    border-style:ridge;
+    border-color: #d8bdc1;
+    margin-left:20px;
+    margin-bottom: 20px;
+    padding: 15px;
+}
+
+.img1{
+    width: 500px;
+    height: 300px;
+}
+
+.img2{
+    width: 700px;
+    height: 350px;
+}
+
+
+
+a, small {
+    color: #cd9ba4;
+}
